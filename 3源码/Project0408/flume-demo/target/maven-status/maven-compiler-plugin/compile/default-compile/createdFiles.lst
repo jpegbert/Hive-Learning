@@ -1,0 +1,5 @@
+com\atguigu\interceptor\TypeInterceptor$1.class
+com\atguigu\source\MySource.class
+com\atguigu\interceptor\TypeInterceptor$Builder.class
+com\atguigu\sink\MySink.class
+com\atguigu\interceptor\TypeInterceptor.class
